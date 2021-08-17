@@ -12,8 +12,8 @@ terraform {
 provider "aws" {
   profile = "default"
   region  = "us-east-2"
-  access_key = "AKIARZNRTZCAWIORX7E7"
-  secret_key = "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"
+  access_key = "*******"
+  secret_key = "*******"
 }
 
 resource "aws_vpc" "main" {
