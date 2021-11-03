@@ -1,0 +1,5 @@
+This repo atendend to exercise a simple deployment of aws resources using Terraform:
+
+VPC, Security groups, EIP, EC2 etc.
+
+In the end you will have 2 instances, one of them is a basic nginx web server with eip and http access.
